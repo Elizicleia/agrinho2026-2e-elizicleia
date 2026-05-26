@@ -1,0 +1,9 @@
+*/reset da página*/
+{
+    margin:0; /*zerando a margem geral*/
+}
+.cabecalho{
+    background-color: greenyellow
+    display:flex
+    /* justify-content space-between */
+}
